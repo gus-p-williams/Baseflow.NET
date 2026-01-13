@@ -1,0 +1,3 @@
+G:\GIT_Repo\Baseflow.NET\Baseflow.App\obj\Debug\net8.0-windows\Baseflow.App.csproj.AssemblyReference.cache
+G:\GIT_Repo\Baseflow.NET\Baseflow.App\obj\Debug\net8.0-windows\App.g.cs
+G:\GIT_Repo\Baseflow.NET\Baseflow.App\obj\Debug\net8.0-windows\Baseflow.App_MarkupCompile.cache

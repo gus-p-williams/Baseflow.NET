@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXBWAPxu8yw=",
+  "success": true,
+  "projectFilePath": "G:\\GIT_Repo\\Baseflow.NET\\Baseflow.App\\Baseflow.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\williagp\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk\\4.3.0\\opentk.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.compute\\4.3.0\\opentk.compute.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.core\\4.3.0\\opentk.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.glwpfcontrol\\4.2.3\\opentk.glwpfcontrol.4.2.3.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.graphics\\4.3.0\\opentk.graphics.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.input\\4.3.0\\opentk.input.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.mathematics\\4.3.0\\opentk.mathematics.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.openal\\4.3.0\\opentk.openal.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.windowing.common\\4.3.0\\opentk.windowing.common.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.windowing.desktop\\4.3.0\\opentk.windowing.desktop.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.3.0\\opentk.windowing.graphicslibraryframework.4.3.0.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\scottplot\\5.0.21\\scottplot.5.0.21.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\scottplot.wpf\\5.0.21\\scottplot.wpf.5.0.21.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.7\\skiasharp.views.desktop.common.2.88.7.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\skiasharp.views.wpf\\2.88.7\\skiasharp.views.wpf.2.88.7.nupkg.sha512",
+    "C:\\Users\\williagp\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
