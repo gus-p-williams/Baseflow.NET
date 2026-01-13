@@ -4,8 +4,8 @@
 Create a standalone Windows Desktop Application using .NET 8 and WPF to perform baseflow separation analysis. This is a port of the 'baseflow' Python library.
 
 ## User Review Required
-> [!IMPORTANT]
-> **Algorithm Details**: Since I don't have the original Python source code, I will implement standard versions of the requested algorithms (UKIH, Lyne-Hollick, Eckhardt, etc.). Please review the implementation logic once drafted if specific parameter tuning or variations are required.
+> [!NOTE]
+> **Algorithm Details**: I have accessed the original Python source code from the [BYU-Hydroinformatics baseflow repository](https://github.com/BYU-Hydroinformatics/baseflow) and will port the algorithms directly to C# to ensure accuracy.
 
 ## Proposed Changes
 
