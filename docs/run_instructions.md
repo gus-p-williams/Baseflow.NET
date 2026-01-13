@@ -30,3 +30,21 @@
 - Navigate to a CSV file with `Date` and `Q` columns.
 - Select checks boxes for methods (e.g., "Lyne-Hollick").
 - Click **"Run Analysis"**.
+
+# How to Run in Visual Studio Code (VS Code)
+
+Based on your logs, you are using VS Code! Here is how to run it there:
+
+1.  **Open the "Run and Debug" View**
+    - Click the **Play Icon** with a bug on the left sidebar (or press `Ctrl+Shift+D`).
+
+2.  **Start Debugging**
+    - Click the **"Run and Debug"** button.
+    - Select **"C#"** or **".NET 8+"** if prompted.
+    - Select the **"Baseflow.App"** project if asked.
+    - The app should compile and launch.
+
+3.  **Alternative: C# Dev Kit**
+    - Click the **Solution Explorer** icon (usually at the bottom of the left sidebar).
+    - Right-click on the `Baseflow.App` project.
+    - Select **"Debug"** > **"Start New Instance"**.
