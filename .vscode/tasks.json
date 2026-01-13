@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build Baseflow",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"Baseflow.sln"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$msbuild"
+			],
+			"group": "build"
+		}
+	]
+}

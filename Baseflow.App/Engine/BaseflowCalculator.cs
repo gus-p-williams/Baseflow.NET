@@ -162,7 +162,6 @@ namespace Baseflow.App.Engine
             for (int i = half; i < Q.Length - half; i++)
             {
                 // Check if Q[i] is min in window [i-half, i+half]
-                double minVal = double.MaxValue;
                 // Note: The python window is [i-half : i+half+1] (inclusive of end in logic)
                 int start = i - half;
                 int end = i + half; 

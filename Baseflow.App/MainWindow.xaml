@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:scott="WpfPlot" 
+        xmlns:sp="clr-namespace:ScottPlot.WPF;assembly=ScottPlot.WPF"
         mc:Ignorable="d"
         Title="Baseflow.NET" Height="600" Width="1000">
     <Grid>
@@ -52,12 +52,7 @@
 
         <!-- Main Content -->
         <Grid Grid.Column="1" Margin="10">
-             <!-- ScottPlot Placeholder 
-                  Note: The namespace might differ for ScottPlot 5. 
-                  We'll use a placeholder Border if the specific xmlns is not known, 
-                  but 'ScottPlot.WPF' usually uses WpfPlot. 
-             -->
-             <WpfPlot x:Name="WpfPlot1" />
+            <sp:WpfPlot x:Name="WpfPlot1" />
         </Grid>
 
     </Grid>
