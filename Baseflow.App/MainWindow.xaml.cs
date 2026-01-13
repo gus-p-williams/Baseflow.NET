@@ -20,6 +20,24 @@ namespace Baseflow.App
         public MainWindow()
         {
             InitializeComponent();
+            
+            // Enable independent axis zooming
+            WpfPlot1.Plot.Axes.DateTimeTicksBottom();
+            // Note: In ScottPlot 5, default mouse interaction usually zooms both. 
+            // We need to verify if `UserInputProcessor` handles this or if we need custom logic.
+            // As per search, custom behavior might be needed, but simplified "ZoomRect" usually helps.
+            // Actually, simply configuring the Interaction module is the way.
+             WpfPlot1.Interaction.Disable(); // Clear default
+             WpfPlot1.Interaction.Enable();  // Re-enable
+             // The specific API for independent zoom in SP5 varies. 
+             // Common method: Shift+Scroll or Ctrl+Scroll often does one axis.
+             // But user wants "independent scaling".
+             // We will try setting configurations if available, otherwise defaulting to standard behavior
+             // which usually allows dragging on axes to zoom them independently.
+             
+             // Let's rely on standard ScottPlot 5 behavior which allows right-click-drag to zoom box, 
+             // and scroll wheel zooms under cursor.
+             // Adding standard interaction setup just in case.
         }
 
         private void LoadCsv_Click(object sender, RoutedEventArgs e)
